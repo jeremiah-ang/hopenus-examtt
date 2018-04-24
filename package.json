@@ -1,0 +1,23 @@
+{
+  "name": "hopenus-exam-nusmods",
+  "version": "1.0.0",
+  "description": "Ease collection of exam timetable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "nodemon": "nodemon index.js localhost 3000",
+    "now": "now"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cjs": "0.0.11",
+    "express": "^4.16.3",
+    "lockfile": "^1.0.4",
+    "nodemon": "^1.17.3",
+    "npm": "^5.8.0",
+    "puppeteer": "^1.3.0"
+  }
+}

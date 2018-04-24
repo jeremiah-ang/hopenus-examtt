@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hope Nus Examtt</title>
+	<script src = './script/modulecodes.js' type = 'text/javascript'></script>
+	<script src = './script/modulelisting.js' type = 'text/javascript'></script>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="./style/style.css">
+
+</head>
+<body>
+
+	<div id = "main">
+		<div id = "info-input" class = 'section'>
+			<h1> Info: </h1>
+			<form id = "info-form" action = "#">
+				<p><input type = 'text' name = 'name' autocomplete="off" placeholder="Your Name"></p>
+				<p><input type = 'text' name = 'nusnet' autocomplete="off" placeholder="NUSNET ID, i.e. E1234567X"></p>
+				<p><select name = 'lifegroup'>
+					<option value='A1'>A1</option>
+					<option value='A2'>A2</option>
+					<option value='A3'>A3</option>
+				</select></p>
+			</form>
+		</div>
+		<div id = "preview-modules" class = 'section'>
+			<h1> Selected Modules: </h1>
+			<div id = "selected-modules"></div>
+			<div id = "submit-button"> Submit </div>
+		</div>
+		<div id = "module-list-search" class = 'section'>
+			<h1> Search Modules: </h1>
+			<div id = 'search'>
+				<input type = 'text' id = 'search-module' autocomplete="off" style="margin-top: 10px" placeholder="Search Module, i.e. CS1010">
+			</div>
+			<div id = 'module-list'></div>
+		</div>
+
+	</div>
+	
+	<script>
+		window.onload = () => {
+
+			examtt_iframe = document.getElementById("examtt_iframe")
+			console.log(examtt_iframe)
+
+			module_list = generate_module_list(module_codes, "module-list", "selected-modules")
+			enable_search (module_list, "search-module")
+			handle_submit (module_list, "info-form", "submit-button")
+		}
+	</script>
+</body>
+</html>

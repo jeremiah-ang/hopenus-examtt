@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hope Nus Examtt</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src = './script/examtt_login.js' type = 'text/javascript'></script>
+	<script src = './script/view_examtt.js' type = 'text/javascript'></script>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,700" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="./style/style.css">
+
+</head>
+<body>
+	<div id = "loading">
+		<div id = "loading-msg" class = "loader">
+		</div>
+	</div>
+	<div id = "main">
+		<center><h1 id='hello'> Hello :0 </h1></center>
+		<div id = "info-input" class = 'section'>
+			<h1> Login: </h1>
+			<form id = "info-form" action = "#">
+				<p><input type = 'text' name = 'nusnet' autocomplete="off" placeholder="NUSNET ID, i.e. E1234567"></p>
+				<p><input type = 'password' name = 'password' autocomplete="off" placeholder="NUSNET Password"></p>
+				<p><select name = 'lifegroup'>
+					<option value='A1'>A1</option>
+					<option value='A2'>A2</option>
+					<option value='B1'>B1</option>
+					<option value='B3'>B3</option>
+					<option value='C1'>C1</option>
+					<option value='C2'>C2</option>
+					<option value='C3'>C3</option>
+					<option value='D1'>D1</option>
+					<option value='D2'>D2</option>
+					<option value='A+'>Ablaze</option>
+					<option value='L+'>LYTE</option>
+				</select></p>
+				<div id = "submit-button" class = 'button'> Submit </div>
+			</form>
+		</div>
+
+		<div id = "links" class = 'section'>
+			<div id = "today-button" class = 'button'> Today </div>
+			<div id = "tomorrow-button" class = 'button'> Tomorrow </div>
+			<div id = "everyday-button" class = 'button'> Everyday </div>
+		</div>
+
+		<div id = "timetable" class = "section">
+			<h1> <center> Exam Timetables </center> </h1>
+		</div>
+		
+
+	</div>
+	
+	<script>
+		window.onload = () => {
+			handle_button ('today-button', 'tomorrow-button', 'everyday-button', 'timetable')
+			handle_login ('submit-button', 'info-form', 'loading')
+		}
+	</script>
+</body>
+</html>
