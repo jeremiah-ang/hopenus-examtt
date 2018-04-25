@@ -1,0 +1,1027 @@
+{
+  "CALEB LAI YIREN": {
+    "modules": {
+      "EC3304": {
+        "venue": "MPSH2-A",
+        "date": "05MAY",
+        "time": "0900"
+      },
+      "EC3333": {
+        "venue": "MPSH2-B",
+        "date": "08MAY",
+        "time": "1300"
+      },
+      "EC3343": {
+        "venue": "MPSH2-A",
+        "date": "03MAY",
+        "time": "0900"
+      },
+      "EC4394": {
+        "venue": "MPSH2-A",
+        "date": "07MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "D1"
+  },
+  "TAN XIN LE, HILLARY": {
+    "modules": {
+      "SW3216": {
+        "venue": "MPSH2-A",
+        "date": "04MAY",
+        "time": "0900"
+      },
+      "SW4101": {
+        "venue": "MPSH5",
+        "date": "09MAY",
+        "time": "1700"
+      },
+      "SW4103": {
+        "venue": "MPSH2-B",
+        "date": "08MAY",
+        "time": "1700"
+      }
+    },
+    "lifegroup": "D1"
+  },
+  "EI YUE LONG": {
+    "modules": {
+      "GEH1067": {
+        "venue": "MPSH1-B",
+        "date": "03MAY",
+        "time": "1300"
+      },
+      "SC3211": {
+        "venue": "MPSH2-B",
+        "date": "08MAY",
+        "time": "1700"
+      },
+      "SC3213": {
+        "venue": "MPSH2-B",
+        "date": "08MAY",
+        "time": "0900"
+      },
+      "SC4202": {
+        "venue": "MPSH2-A",
+        "date": "11MAY",
+        "time": "0900"
+      },
+      "SC4218": {
+        "venue": "MPSH2-B",
+        "date": "09MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "C2"
+  },
+  "CHAN MING": {
+    "modules": {
+      "NUR1118": {
+        "venue": "UTOWN_AUD_2",
+        "date": "02MAY",
+        "time": "1300"
+      },
+      "NUR1119": {
+        "venue": "UTOWN_AUD_2",
+        "date": "04MAY",
+        "time": "0900"
+      },
+      "NUR1121": {
+        "venue": "UTOWN_AUD_2",
+        "date": "30APR",
+        "time": "0900"
+      },
+      "PL1101E": {
+        "venue": "MPSH1-A",
+        "date": "03MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "C1"
+  },
+  "LIM JUN YAN RUSSELL": {
+    "modules": {
+      "GET1029": {
+        "venue": "MPSH5",
+        "date": "10MAY",
+        "time": "1300"
+      },
+      "NM2101": {
+        "venue": "MPSH2-A",
+        "date": "05MAY",
+        "time": "1300"
+      },
+      "NM2220": {
+        "venue": "MPSH2-B",
+        "date": "07MAY",
+        "time": "1700"
+      },
+      "SC2215": {
+        "venue": "AS1-02-01",
+        "date": "28APR",
+        "time": "1300"
+      },
+      "SE1101E": {
+        "venue": "MPSH1-B",
+        "date": "08MAY",
+        "time": "1700"
+      }
+    },
+    "lifegroup": "C1"
+  },
+  "VICKI NG LI QIN": {
+    "modules": {
+      "EC4371": {
+        "venue": "MPSH5",
+        "date": "30APR",
+        "time": "1700"
+      },
+      "EC4394": {
+        "venue": "MPSH2-A",
+        "date": "07MAY",
+        "time": "0900"
+      },
+      "EC4880": {
+        "venue": "MPSH4",
+        "date": "02MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "C1"
+  },
+  "SHARLYN NG JIA YI": {
+    "modules": {
+      "NUR1118": {
+        "venue": "UTOWN_AUD_2",
+        "date": "02MAY",
+        "time": "1300"
+      },
+      "NUR1119": {
+        "venue": "UTOWN_AUD_2",
+        "date": "04MAY",
+        "time": "0900"
+      },
+      "NUR1121": {
+        "venue": "UTOWN_AUD_2",
+        "date": "30APR",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "C1"
+  },
+  "LEE JUNGUANG, QUINN": {
+    "modules": {
+      "GER1000": {
+        "venue": "MPSH2-A",
+        "date": "28APR",
+        "time": "1300"
+      },
+      "JS1101E": {
+        "venue": "MPSH2-A",
+        "date": "11MAY",
+        "time": "1430"
+      },
+      "PL2132": {
+        "venue": "MPSH2-B",
+        "date": "11MAY",
+        "time": "0900"
+      },
+      "PL3235": {
+        "venue": "MPSH2-A",
+        "date": "10MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "A2"
+  },
+  "LIM ZHI MIN": {
+    "modules": {
+      "PF3207": {
+        "venue": "UTOWN_AUD_2",
+        "date": "28APR",
+        "time": "1300"
+      },
+      "PF4203": {
+        "venue": "UT_SRC_SH1",
+        "date": "09MAY",
+        "time": "0900"
+      },
+      "PF4207": {
+        "venue": "UT_SRC_SH1",
+        "date": "02MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "A2"
+  },
+  "CHING JIA WEI": {
+    "modules": {
+      "PL3232": {
+        "venue": "MPSH5",
+        "date": "09MAY",
+        "time": "1300"
+      },
+      "PL3234": {
+        "venue": "MPSH2-B",
+        "date": "05MAY",
+        "time": "0900"
+      },
+      "PL3254": {
+        "venue": "MPSH2-B",
+        "date": "08MAY",
+        "time": "1300"
+      },
+      "SE1101E": {
+        "venue": "MPSH1-B",
+        "date": "08MAY",
+        "time": "1700"
+      }
+    },
+    "lifegroup": "C2"
+  },
+  "NICOLE LER SHIN": {
+    "modules": {
+      "GET1029": {
+        "venue": "MPSH5",
+        "date": "10MAY",
+        "time": "1300"
+      },
+      "RE3105": {
+        "venue": "MPSH4",
+        "date": "04MAY",
+        "time": "0900"
+      },
+      "RE3106": {
+        "venue": "UT_SRC_SH1",
+        "date": "02MAY",
+        "time": "1300"
+      },
+      "RE3211": {
+        "venue": "UT_SRC_SH1",
+        "date": "05MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "C1"
+  },
+  "LEE CHIN FANG AMANDA": {
+    "modules": {
+      "GEK1008": {
+        "venue": "MPSH1-B",
+        "date": "08MAY",
+        "time": "1700"
+      }
+    },
+    "lifegroup": "D2"
+  },
+  "XU SHU YA @ JUNIANA WIJAYA": {
+    "modules": {
+      "SC4212": {
+        "venue": "MPSH2-A",
+        "date": "07MAY",
+        "time": "1700"
+      },
+      "SC4883": {
+        "venue": "MPSH2-B",
+        "date": "08MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "C2"
+  },
+  "DAVID LIM SHING YANG": {
+    "modules": {
+      "EC3322": {
+        "venue": "MPSH2-A",
+        "date": "05MAY",
+        "time": "1300"
+      },
+      "EC3361": {
+        "venue": "MPSH2-B",
+        "date": "07MAY",
+        "time": "1700"
+      },
+      "EC4332": {
+        "venue": "MPSH2-B",
+        "date": "10MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "A+"
+  },
+  "ONG RU WEI, HEATHER": {
+    "modules": {
+      "GES1013": {
+        "venue": "LT50_L1",
+        "date": "03MAY",
+        "time": "1300"
+      },
+      "ID2324": {
+        "venue": "MPSH1-B",
+        "date": "08MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "C2"
+  },
+  "CINDY LEE SHU RONG": {
+    "modules": {
+      "PL3233": {
+        "venue": "MPSH2-A",
+        "date": "04MAY",
+        "time": "0900"
+      },
+      "PL3234": {
+        "venue": "MPSH2-B",
+        "date": "05MAY",
+        "time": "0900"
+      },
+      "PL3239": {
+        "venue": "MPSH2-A",
+        "date": "07MAY",
+        "time": "1700"
+      },
+      "PL3254": {
+        "venue": "MPSH2-B",
+        "date": "08MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "D1"
+  },
+  "GOH SI JIE": {
+    "modules": {
+      "CS2040C": {
+        "venue": "MPSH5",
+        "date": "10MAY",
+        "time": "1700"
+      },
+      "MA1512": {
+        "venue": "MPSH1-A",
+        "date": "12MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "A2"
+  },
+  "JEREMIAH ANG YONG EN": {
+    "modules": {
+      "CS2102": {
+        "venue": "MPSH5",
+        "date": "03MAY",
+        "time": "0900"
+      },
+      "CS3230": {
+        "venue": "MPSH5",
+        "date": "30APR",
+        "time": "1300"
+      },
+      "CS3245": {
+        "venue": "SOC_SR1",
+        "date": "08MAY",
+        "time": "0900"
+      },
+      "GEH1036": {
+        "venue": "MPSH6",
+        "date": "04MAY",
+        "time": "1430"
+      },
+      "ST2137": {
+        "venue": "MPSH6",
+        "date": "10MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "D1"
+  },
+  "LIM HAN XUAN JACKSON": {
+    "modules": {
+      "EC3101": {
+        "venue": "MPSH2-A",
+        "date": "09MAY",
+        "time": "0900"
+      },
+      "EC3102": {
+        "venue": "MPSH6",
+        "date": "07MAY",
+        "time": "0900"
+      },
+      "EC3304": {
+        "venue": "MPSH2-A",
+        "date": "05MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "C2"
+  },
+  "CHANG QING HUI JOHN": {
+    "modules": {
+      "CE3115": {
+        "venue": "MPSH6",
+        "date": "02MAY",
+        "time": "1300"
+      },
+      "CE3132": {
+        "venue": "MPSH2-A",
+        "date": "03MAY",
+        "time": "1300"
+      },
+      "CE3155": {
+        "venue": "MPSH2-A",
+        "date": "30APR",
+        "time": "1700"
+      },
+      "GET1029": {
+        "venue": "MPSH5",
+        "date": "10MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "D2"
+  },
+  "YEO XUAN NING": {
+    "modules": {
+      "GE2204": {
+        "venue": "MPSH2-A",
+        "date": "07MAY",
+        "time": "1700"
+      },
+      "GER1000": {
+        "venue": "UT_SRC_SH1",
+        "date": "28APR",
+        "time": "1300"
+      },
+      "SE1101E": {
+        "venue": "MPSH1-B",
+        "date": "08MAY",
+        "time": "1700"
+      }
+    },
+    "lifegroup": "C2"
+  },
+  "LIN MEIQI": {
+    "modules": {
+      "LSM3214": {
+        "venue": "MPSH1-A",
+        "date": "10MAY",
+        "time": "0900"
+      },
+      "LSM4225": {
+        "venue": "MD7_LS_LAB8",
+        "date": "09MAY",
+        "time": "0900"
+      },
+      "LSM4235": {
+        "venue": "S1A-03-LS_LAB_1",
+        "date": "05MAY",
+        "time": "1300"
+      },
+      "LSM4241": {
+        "venue": "MD7_LS_LAB8",
+        "date": "05MAY",
+        "time": "0900"
+      },
+      "SC2215": {
+        "venue": "AS1-02-01",
+        "date": "28APR",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "B3"
+  },
+  "LIM WEI JIE": {
+    "modules": {
+      "CM1502": {
+        "venue": "UTOWN_AUD_2",
+        "date": "08MAY",
+        "time": "1700"
+      },
+      "GER1000": {
+        "venue": "MPSH2-B",
+        "date": "28APR",
+        "time": "1300"
+      },
+      "MA1512": {
+        "venue": "MPSH1-B",
+        "date": "12MAY",
+        "time": "0900"
+      },
+      "MA1513": {
+        "venue": "MPSH1-A",
+        "date": "17MAR",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "C1"
+  },
+  "CHUA KUN HONG": {
+    "modules": {
+      "CG2023": {
+        "venue": "MPSH1-A",
+        "date": "30APR",
+        "time": "1300"
+      },
+      "CG2271": {
+        "venue": "SOC_SR1",
+        "date": "02MAY",
+        "time": "1300"
+      },
+      "CS2103T": {
+        "venue": "MPSH5",
+        "date": "08MAY",
+        "time": "0900"
+      },
+      "EE2024": {
+        "venue": "MPSH6",
+        "date": "05MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "A2"
+  },
+  "GOH JUN JIE NICHOLAS": {
+    "modules": {
+      "CN2116": {
+        "venue": "MPSH2-A",
+        "date": "09MAY",
+        "time": "1700"
+      },
+      "CN2125": {
+        "venue": "MPSH6",
+        "date": "03MAY",
+        "time": "1700"
+      },
+      "CN3124": {
+        "venue": "MPSH6",
+        "date": "08MAY",
+        "time": "0900"
+      },
+      "EC1301": {
+        "venue": "MPSH1-B",
+        "date": "03MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "C1"
+  },
+  "MICHELLE OH YAN LING": {
+    "modules": {
+      "CS1010": {
+        "venue": "MPSH1-A",
+        "date": "07MAY",
+        "time": "1700"
+      },
+      "GES1003": {
+        "venue": "MPSH2-A",
+        "date": "02MAY",
+        "time": "1300"
+      },
+      "RE2301": {
+        "venue": "UT_SRC_SH1",
+        "date": "03MAY",
+        "time": "1700"
+      },
+      "SC2101": {
+        "venue": "MPSH2-B",
+        "date": "09MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "D1"
+  },
+  "TAN MING WEI": {
+    "modules": {
+      "CM3201": {
+        "venue": "S16-03-07",
+        "date": "04MAY",
+        "time": "0900"
+      },
+      "CM4241": {
+        "venue": "MPSH5",
+        "date": "08MAY",
+        "time": "1300"
+      },
+      "CM4282": {
+        "venue": "S16-04-30/41",
+        "date": "02MAY",
+        "time": "1700"
+      },
+      "SW2104": {
+        "venue": "MPSH2-B",
+        "date": "05MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "A1"
+  },
+  "CHERYLMINE WOON XUE YI": {
+    "modules": {
+      "PL4214": {
+        "venue": "MPSH2-A",
+        "date": "10MAY",
+        "time": "1700"
+      },
+      "PL4226": {
+        "venue": "MPSH5",
+        "date": "30APR",
+        "time": "1700"
+      },
+      "PL4228": {
+        "venue": "MPSH2-B",
+        "date": "02MAY",
+        "time": "1700"
+      }
+    },
+    "lifegroup": "D2"
+  },
+  "KWAN SHI TING": {
+    "modules": {
+      "CE2155": {
+        "venue": "MPSH1-B",
+        "date": "30APR",
+        "time": "1300"
+      },
+      "GER1000": {
+        "venue": "MPSH2-A",
+        "date": "28APR",
+        "time": "1300"
+      },
+      "LSM1303": {
+        "venue": "MPSH6",
+        "date": "09MAY",
+        "time": "1700"
+      }
+    },
+    "lifegroup": "D2"
+  },
+  "HO SI QI": {
+    "modules": {
+      "CE5603": {
+        "venue": "LT7A",
+        "date": "07MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "A+"
+  },
+  "TOH WEI NI": {
+    "modules": {
+      "RE4221": {
+        "venue": "UT_SRC_SH1",
+        "date": "03MAY",
+        "time": "1700"
+      }
+    },
+    "lifegroup": "A1"
+  },
+  "LAU YUN QI": {
+    "modules": {
+      "ACC1701": {
+        "venue": "MPSH5",
+        "date": "03MAY",
+        "time": "1700"
+      },
+      "BSP1702": {
+        "venue": "LT53_L2",
+        "date": "05MAY",
+        "time": "0900"
+      },
+      "GET1035": {
+        "venue": "UTOWN_AUD_2",
+        "date": "28APR",
+        "time": "0900"
+      },
+      "MKT1705B": {
+        "venue": "MPSH1-A",
+        "date": "07MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "C2"
+  },
+  "LEWIN ABDIEL LOW WEN ZHONG": {
+    "modules": {
+      "ACC1701": {
+        "venue": "MPSH5",
+        "date": "03MAY",
+        "time": "1700"
+      },
+      "BSP1702": {
+        "venue": "LT53_L2",
+        "date": "05MAY",
+        "time": "0900"
+      },
+      "MKT1705B": {
+        "venue": "MPSH1-A",
+        "date": "07MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "D2"
+  },
+  "LEE JAY LYNN BRENDA": {
+    "modules": {
+      "EC4343": {
+        "venue": "MPSH2-A",
+        "date": "09MAY",
+        "time": "0900"
+      },
+      "EC4353": {
+        "venue": "MPSH2-B",
+        "date": "10MAY",
+        "time": "1700"
+      },
+      "EC4387": {
+        "venue": "MPSH2-A",
+        "date": "02MAY",
+        "time": "1700"
+      }
+    },
+    "lifegroup": "D2"
+  },
+  "BERNICE GOH": {
+    "modules": {
+      "ME2142": {
+        "venue": "MPSH5",
+        "date": "02MAY",
+        "time": "1700"
+      },
+      "ME4255": {
+        "venue": "E1-06-08/09",
+        "date": "07MAY",
+        "time": "0900"
+      },
+      "SC1101E": {
+        "venue": "MPSH2-B",
+        "date": "03MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "A1"
+  },
+  "REBECCA ONG CHIEN LIN": {
+    "modules": {
+      "BSP2001": {
+        "venue": "MPSH6",
+        "date": "03MAY",
+        "time": "1300"
+      },
+      "DSC2006": {
+        "venue": "MPSH6",
+        "date": "30APR",
+        "time": "1700"
+      },
+      "FIN2004": {
+        "venue": "MPSH5",
+        "date": "05MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "D1"
+  },
+  "LOW LI XIAN": {
+    "modules": {
+      "GET1035": {
+        "venue": "UTOWN_AUD_2",
+        "date": "28APR",
+        "time": "0900"
+      },
+      "LSM2232": {
+        "venue": "S1A-03-LS_LAB_1",
+        "date": "07MAY",
+        "time": "0900"
+      },
+      "LSM2233": {
+        "venue": "MPSH6",
+        "date": "05MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "C1"
+  },
+  "HO YONG JIN, MERRICK": {
+    "modules": {
+      "GER1000": {
+        "venue": "MPSH1-B",
+        "date": "28APR",
+        "time": "1300"
+      },
+      "MA1101R": {
+        "venue": "MPSH5",
+        "date": "05MAY",
+        "time": "0900"
+      },
+      "PC1143": {
+        "venue": "S16-04-30/41",
+        "date": "03MAY",
+        "time": "1700"
+      },
+      "PC1144": {
+        "venue": "MPSH1-B",
+        "date": "10MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "C2"
+  },
+  "LIM JUNLIANG": {
+    "modules": {
+      "SWD5102": {
+        "venue": "MPSH4",
+        "date": "03MAY",
+        "time": "1300"
+      },
+      "SWD5104": {
+        "venue": "MPSH2-A",
+        "date": "11MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "A1"
+  },
+  "WENDY LIM ZHI MING": {
+    "modules": {
+      "ACC1701": {
+        "venue": "MPSH5",
+        "date": "03MAY",
+        "time": "1700"
+      },
+      "BSP1702": {
+        "venue": "UTOWN_AUD_2",
+        "date": "05MAY",
+        "time": "0900"
+      },
+      "MKT1705C": {
+        "venue": "MPSH1-A",
+        "date": "07MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "A1"
+  },
+  "CHARLOTTE LAU WOON WOON": {
+    "modules": {
+      "CE2155": {
+        "venue": "MPSH1-B",
+        "date": "30APR",
+        "time": "1300"
+      },
+      "CE3115": {
+        "venue": "MPSH6",
+        "date": "02MAY",
+        "time": "1300"
+      },
+      "CE3132": {
+        "venue": "MPSH2-A",
+        "date": "03MAY",
+        "time": "1300"
+      },
+      "ES1531": {
+        "venue": "MPSH5",
+        "date": "27APR",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "B3"
+  },
+  "TAN ZONG TING": {
+    "modules": {
+      "ACC2706": {
+        "venue": "LT53_L2",
+        "date": "02MAY",
+        "time": "1700"
+      },
+      "DAO1704": {
+        "venue": "MPSH1-A",
+        "date": "03MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "C1"
+  },
+  "LIM HUI XUAN CLARA": {
+    "modules": {
+      "CL2281": {
+        "venue": "MPSH2-B",
+        "date": "09MAY",
+        "time": "0900"
+      },
+      "HY4214": {
+        "venue": "MPSH4",
+        "date": "08MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "A2"
+  },
+  "CHARIS CHING YONGYI": {
+    "modules": {
+      "EL3208": {
+        "venue": "MPSH5",
+        "date": "03MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "D2"
+  },
+  "CHLOE NG SIEW TING": {
+    "modules": {
+      "GES1028": {
+        "venue": "MPSH2-B",
+        "date": "08MAY",
+        "time": "0900"
+      },
+      "RE1704": {
+        "venue": "MPSH1-A",
+        "date": "08MAY",
+        "time": "1300"
+      },
+      "RE1705": {
+        "venue": "UTOWN_AUD_2",
+        "date": "05MAY",
+        "time": "1300"
+      },
+      "RE1706": {
+        "venue": "UT_SRC_SH1",
+        "date": "04MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "A+"
+  },
+  "ANG CHERYL": {
+    "modules": {
+      "JS1101E": {
+        "venue": "MPSH2-A",
+        "date": "11MAY",
+        "time": "1430"
+      },
+      "NM2101": {
+        "venue": "MPSH2-A",
+        "date": "05MAY",
+        "time": "1300"
+      },
+      "NM2103": {
+        "venue": "MPSH2-A",
+        "date": "03MAY",
+        "time": "1700"
+      },
+      "TS1101E": {
+        "venue": "MPSH2-B",
+        "date": "04MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "A+"
+  },
+  "BOK WEN XUAN": {
+    "modules": {
+      "GE2221": {
+        "venue": "MPSH2-B",
+        "date": "10MAY",
+        "time": "0900"
+      },
+      "LSM3267": {
+        "venue": "S1A-03-LS_LAB_1",
+        "date": "02MAY",
+        "time": "1700"
+      },
+      "LSM4261": {
+        "venue": "S1A-03-LS_LAB_1",
+        "date": "04MAY",
+        "time": "0900"
+      },
+      "LSM4264": {
+        "venue": "S1A-03-LS_LAB_1",
+        "date": "30APR",
+        "time": "1700"
+      }
+    },
+    "lifegroup": "A2"
+  },
+  "CHARMAINE GOH MEI XIAN": {
+    "modules": {
+      "EC1301": {
+        "venue": "MPSH1-B",
+        "date": "03MAY",
+        "time": "0900"
+      },
+      "PR3136": {
+        "venue": "MPSH1-B",
+        "date": "09MAY",
+        "time": "0900"
+      },
+      "PR3144": {
+        "venue": "MPSH5",
+        "date": "05MAY",
+        "time": "1300"
+      },
+      "PR3145": {
+        "venue": "MPSH5",
+        "date": "04MAY",
+        "time": "1430"
+      }
+    },
+    "lifegroup": "C3"
+  }
+}
