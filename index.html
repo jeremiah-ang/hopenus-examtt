@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script src = './script/examtt_login.js' type = 'text/javascript'></script>
 	<script src = './script/view_examtt.js' type = 'text/javascript'></script>
-	<link href="https://fonts.googleapis.com/css?family=Roboto:300,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,600" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="./style/style.css">
 
 </head>
@@ -16,6 +16,26 @@
 	</div>
 	<div id = "main">
 		<center><h1 id='hello'> Hello :0 </h1></center>
+		<div class = 'section'>
+			Sorry I accidentally deleted the data file :( Thanks for doing this again. Since you are here, do check out the "About" button below :)
+		</div>
+		<div id = "about" class = 'section'>
+			<div id = "about-button" class = "button"> About </div>
+			<div id = 'about-content'>
+				<h2> Hi there! </h2>
+				<p>Thanks for clicking that button! </p>
+				<p>This is an application quickly put together to help the ExamHQ anchors collect our timetable </p>
+				<br/>
+				<h3> Is this Secure? Ö </h3>
+				<p> Yesss~, I don't store your password on my side. Just make sure that you're using https://... :)</p>
+				<br/>
+				<h3> Do you wanna contribute? </h3>
+				<p> If you are interested in web design/development, be it the UI/UX or Server side, and want to try making life easier for the Hope NUS Community this can be a good place to start! </p>
+				<br/>
+				<h3> How can I contribute? </h3>
+				<p> Glad you asked! Head over to the <a href = 'https://github.com/jeremiah-ang/hopenus-examtt'>github page</a> to see how you might be able to add and propose extra features ;) Or if github is too scary for you, you can ask your leader how to find me :D</p>
+			</div>
+		</div>
 		<div id = "info-input" class = 'section'>
 			<h1> Login: </h1>
 			<form id = "info-form" action = "#">
@@ -42,6 +62,7 @@
 			<div id = "today-button" class = 'button'> Today </div>
 			<div id = "tomorrow-button" class = 'button'> Tomorrow </div>
 			<div id = "everyday-button" class = 'button'> Everyday </div>
+			<a href = "download" style= "text-decoration:none;"><div id = "download-button" class = 'button'> Download CSV </div></a>
 		</div>
 
 		<div id = "timetable" class = "section">
@@ -53,6 +74,10 @@
 	
 	<script>
 		window.onload = () => {
+			about_btn = document.getElementById("about-button")
+			about_content = document.getElementById("about-content")
+			about_btn.addEventListener("click", () => { about_content.classList.toggle("show") })
+
 			handle_button ('today-button', 'tomorrow-button', 'everyday-button', 'timetable')
 			handle_login ('submit-button', 'info-form', 'loading')
 		}

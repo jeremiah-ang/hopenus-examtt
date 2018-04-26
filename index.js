@@ -34,12 +34,32 @@ app.post("/add", (req, res) => {
 	.catch((err) => {
 		res.send ("Failed! Please try again\nError: " + err);
 	})
+})
+app.get("/download", (req, res) => {
+	csv_file = "./data/user_info.csv"
+	convert_json_to_csv(file_of_user_info, csv_file)
+	.then(() => {
+		return new Promise ((resolve, reject) => {
+			console.log ("START Sending " + csv_file + " ...")
+			res.download(csv_file, () => {
+				console.log ("END Sending " + csv_file + " ...")
+				resolve()
+			})
+		})	
+	})
+	.then(() => {
+		console.log ("START Removing " + csv_file + "...")
+		fs.unlinkSync(csv_file)
+		console.log ("END Removing " + csv_file + "...")
+	})
+	.catch ((err) => {
+		console.log(err)
+	})
 	
 })
 
 arg_port = process.argv[2]
 arg_https = process.argv[3]
-
 port = process.env.PORT || arg_port
 if (arg_https === "https") {
 	option = {
@@ -124,10 +144,13 @@ function handle_data(data) {
 		password = password_str
 		lifegroup = data.lifegroup
 
-		if (/^[A-Z][0-9]{7}$/.exec(nusnet) == null) {
-			reject ("Invalid NUSNET ID")
-		} else if (password === "") {
+		// if (/^[A-Z][0-9]{7}$/.exec(nusnet) == null) {
+		// 	reject ("Invalid NUSNET ID")
+		// 	return
+		// } 
+		if (password === "") {
 			reject ("Empty Password")
+			return
 		} 
 
 		scrape_info(nusnet, password)
@@ -169,4 +192,45 @@ function update_info (new_info, lifegroup) {
 		'lifegroup': lifegroup
 	}
 	fs.writeFileSync(file_of_user_info, JSON.stringify(user_info, undefined, 2))
+}
+
+function convert_json_to_csv (src, dst) {
+	return new Promise ((resolve, reject) => {
+		lockfile.lock(lock, (err) => {
+			if (err) {
+				console.log (err)
+				reject ("Error reading file")
+			}
+			user_info = JSON.parse(fs.readFileSync(file_of_user_info))
+			csv = []
+			for (var name in user_info) {
+				var user = user_info[name]
+				var lg = user.lifegroup
+				var modules = user.modules
+				for (var module_code in modules) {
+					var module = modules[module_code]
+					var venue = module.venue 
+					var date = module.date 
+					var time = module.time
+					csv.push([name, lg, module_code, venue, date, time])
+				}
+			}
+
+			fs.writeFileSync(dst, "")
+			for (var i = 0; i < csv.length; i++) {
+				var row = csv[i].join(", ") + "\n";
+				fs.appendFileSync(dst, row);
+			}
+
+			lockfile.unlock(lock, (err) => {
+				if (err) {
+					reject ("Failed to write")
+					return
+				}
+				resolve()
+			})
+
+		})
+	})
+	
 }

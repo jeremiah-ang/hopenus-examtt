@@ -1023,5 +1023,200 @@
       }
     },
     "lifegroup": "C3"
+  },
+  "JACINTHA TAY HUI TING": {
+    "modules": {
+      "MIC2000": {
+        "venue": "MPSH6",
+        "date": "09MAY",
+        "time": "1300"
+      },
+      "NUR2121": {
+        "venue": "LT50_L1",
+        "date": "30APR",
+        "time": "0900"
+      },
+      "NUR2122": {
+        "venue": "UTOWN_AUD_2",
+        "date": "03MAY",
+        "time": "0900"
+      },
+      "SC2211": {
+        "venue": "MPSH2-A",
+        "date": "10MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "C1"
+  },
+  "TAN KAY ANN": {
+    "modules": {
+      "GER1000": {
+        "venue": "MPSH6",
+        "date": "28APR",
+        "time": "1300"
+      },
+      "GET1029": {
+        "venue": "MPSH5",
+        "date": "10MAY",
+        "time": "1300"
+      },
+      "PC1432": {
+        "venue": "MPSH1-B",
+        "date": "07MAY",
+        "time": "1700"
+      }
+    },
+    "lifegroup": "C1"
+  },
+  "VALERIE TAN SHI MIN": {
+    "modules": {
+      "ES1103": {
+        "venue": "MPSH1-B",
+        "date": "27APR",
+        "time": "0900"
+      },
+      "ID2324": {
+        "venue": "MPSH1-B",
+        "date": "08MAY",
+        "time": "1300"
+      },
+      "MKT1003X": {
+        "venue": "MPSH1-B",
+        "date": "07MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "B3"
+  },
+  "WONG ZI NING SERENE": {
+    "modules": {
+      "GES1031": {
+        "venue": "UTOWN_AUD_2",
+        "date": "11MAY",
+        "time": "1430"
+      },
+      "MKT1003X": {
+        "venue": "MPSH1-B",
+        "date": "07MAY",
+        "time": "0900"
+      },
+      "PF2105": {
+        "venue": "UT_SRC_SH1",
+        "date": "08MAY",
+        "time": "1700"
+      },
+      "PF2108": {
+        "venue": "UT_SRC_SH1",
+        "date": "28APR",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "B3"
+  },
+  "TAN YIHAN, GLENN": {
+    "modules": {
+      "GE2221": {
+        "venue": "MPSH2-B",
+        "date": "10MAY",
+        "time": "0900"
+      },
+      "GES1021": {
+        "venue": "MPSH1-A",
+        "date": "07MAY",
+        "time": "1300"
+      },
+      "RE1704": {
+        "venue": "MPSH1-A",
+        "date": "08MAY",
+        "time": "1300"
+      },
+      "RE1705": {
+        "venue": "UTOWN_AUD_2",
+        "date": "05MAY",
+        "time": "1300"
+      },
+      "RE1706": {
+        "venue": "UT_SRC_SH1",
+        "date": "04MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "D1"
+  },
+  "FAITH OH KE JING": {
+    "modules": {
+      "GE3201": {
+        "venue": "MPSH2-B",
+        "date": "03MAY",
+        "time": "0900"
+      },
+      "GE3206": {
+        "venue": "MPSH2-A",
+        "date": "02MAY",
+        "time": "1700"
+      },
+      "GET1029": {
+        "venue": "MPSH5",
+        "date": "10MAY",
+        "time": "1300"
+      },
+      "NM2303": {
+        "venue": "LT50_L1",
+        "date": "08MAY",
+        "time": "1700"
+      }
+    },
+    "lifegroup": "A+"
+  },
+  "LO YUE YUN CHARMAINE": {
+    "modules": {
+      "EL3208": {
+        "venue": "MPSH5",
+        "date": "03MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "D2"
+  },
+  "ZHAO WEN YANG, WILLIAM": {
+    "modules": {
+      "EC2101": {
+        "venue": "MPSH1-B",
+        "date": "28APR",
+        "time": "0900"
+      },
+      "EC2303": {
+        "venue": "MPSH1-B",
+        "date": "30APR",
+        "time": "1700"
+      },
+      "GET1029": {
+        "venue": "MPSH5",
+        "date": "10MAY",
+        "time": "1300"
+      }
+    },
+    "lifegroup": "A+"
+  },
+  "GERALDINE NGU LI XUAN": {
+    "modules": {
+      "SC2214": {
+        "venue": "MPSH2-B",
+        "date": "10MAY",
+        "time": "1300"
+      },
+      "SC3206": {
+        "venue": "MPSH2-B",
+        "date": "02MAY",
+        "time": "0900"
+      },
+      "SC3213": {
+        "venue": "MPSH2-B",
+        "date": "08MAY",
+        "time": "0900"
+      }
+    },
+    "lifegroup": "A+"
   }
 }

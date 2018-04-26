@@ -7,6 +7,20 @@ body {
 	background-color: #FFD470;
 }
 
+#about-button {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#about-content {
+	display: none;
+}
+#about-content.show {
+	display: block;
+}
+#about-content h3, #about-content h2 {
+	font-weight: 700;
+}
+
 #hello {
 	width: 100%;
 	padding-top: 20px;
@@ -133,12 +147,25 @@ body {
 	box-shadow: 0 3px #46629E;
   	transform: translateY(2px);
 }
-#everyday-button {
+#everyday-button, #about-button {
 	background-color: #F2C96B;
 	box-shadow: 0 5px #DEB862;
 }
-#everyday-button:active {
+#everyday-button:active, #about-button:active {
 	box-shadow: 0 3px #DEB862;
+  	transform: translateY(2px);
+}
+a #download-button {
+	text-decoration: none;
+}
+#download-button{
+	background-color: #58CCB6;
+	box-shadow: 0 5px #4EB5A1;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#download-button:active {
+	box-shadow: 0 3px #4EB5A1;
   	transform: translateY(2px);
 }
 

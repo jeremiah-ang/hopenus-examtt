@@ -1,5 +1,5 @@
 var schedule = {}
-var months = {"MAY": 4, "APR": 3}
+var months = {"MAR": 2, "MAY": 4, "APR": 3}
 
 
 function handle_button (today, tomorrow, everyday, timetable_target, loading_target) {
@@ -28,7 +28,6 @@ function handleExamTTClick (level, timetable_target) {
 
 			ordered_dates = []
 			for (var date in schedule_dom) {
-				console.log(schedule_dom[date]['datetime'])
 				ordered_dates.push([schedule_dom[date]['datetime'], date])
 			}
 			ordered_dates.sort((a,b)=>a[0].getTime()-b[0].getTime())
@@ -168,8 +167,8 @@ function process_date_time (date) {
 	year = (new Date()).getFullYear()
 	month = months[date.substring(2,5)]
 	day = date.substring(0,2)
-	date = new Date(year, month, day)
-	return date
+	date_obj = new Date(year, month, day)
+	return date_obj
 }
 
 function fetch_schedule () {
