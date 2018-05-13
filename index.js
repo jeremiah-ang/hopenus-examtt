@@ -212,7 +212,7 @@ function convert_json_to_csv (src, dst) {
 					var venue = module.venue 
 					var date = module.date 
 					var time = module.time
-					csv.push([name, lg, module_code, venue, date, time])
+					csv.push([name.replace(",", ''), lg, module_code, venue, date, time])
 				}
 			}
 
